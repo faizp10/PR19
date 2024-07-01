@@ -1,2 +1,3 @@
-package com.example.runners;public @interface CucumberOptions {
-}
+package com.example.runners;
+
+public @interface CucumberOptions {}
